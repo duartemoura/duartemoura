@@ -21,7 +21,7 @@
 
 ### Now
 
-🏗️ &nbsp; **Founding Applied AI Engineer @ [Galtea](https://galtea.ai)** — building evaluation, red-teaming, and conversation-simulation pipelines used by Tier-1 European banks. Forward-deployed across discovery, prompt engineering, and live production troubleshooting.
+🏗️ &nbsp; **Founding Applied AI Engineer @ [Galtea](https://galtea.ai)** — building evaluation, red-teaming, and conversation-simulation pipelines used by top tier enterprises. Forward-deployed across discovery, prompt engineering, and live production troubleshooting.
 
 🔬 &nbsp; **ML Researcher @ [INESC TEC](https://www.inesctec.pt/)** — EU AI4Lungs project. First author of *Learning Visual Prototypes for Self-Explainable Lung Nodule Classification* — **IEEE EMBC 2026**.
 
