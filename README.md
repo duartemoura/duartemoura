@@ -34,22 +34,44 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/duartemoura/Refusal_MechanisticStudy">Mechanistic Study of Refusal in LLMs</a></h4>
-      <sub>Component-level analysis of refusal in Qwen-1.8B using TransformerLens. Systematic ablation across residual streams, MLPs, and attention heads localised refusal to <b>a single attention head (L6_H10)</b> and three layers (6, 9, 11). Counterfactual injection of refusal activations into neutral prompts (e.g. <i>"how do I bake a cake?"</i>) reproduced refusals — evidence that the feature generalises beyond its intended context.</sub>
-    </td>
-    <td width="50%" valign="top">
       <h4>🩺 <a href="https://github.com/duartemoura/sMCI-vs-pMCI-Alzheimer">Alzheimer's Progression from PET</a></h4>
       <sub>MSc thesis (UC3M). Hierarchical 3D CNN predicting MCI-to-Alzheimer's conversion from FDG and tau-PET, with cross-modality transfer learning to bridge a ~3× data gap. Monte Carlo Dropout for uncertainty quantification and Grad-CAM for explainability — high-confidence predictions reach <b>~90% accuracy on FDG-PET</b>. Full thesis PDF in the repo.</sub>
+      <br/><br/>
+      <p align="center">
+        <a href="https://github.com/duartemoura/sMCI-vs-pMCI-Alzheimer">
+          <img src="assets/alzheimer.gif" width="440" height="320" alt="Alzheimer's Progression from PET"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚦 <a href="https://github.com/duartemoura/reinvent-traffic-management">Traffic Optimisation with Deep RL</a></h4>
+      <sub>Deep Q-Network agent trained in the SUMO simulator on Amazon SageMaker, ingesting simulated IoT signals through AWS analytics for real-time traffic-flow decisions. Selected to present at <b>AWS re:Invent</b> as an official workshop.</sub>
+      <br/><br/>
+      <p align="center">
+        <a href="https://github.com/duartemoura/reinvent-traffic-management">
+          <img src="assets/traffic.gif" width="440" height="320" alt="Traffic Optimisation with Deep RL"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚦 <a href="https://github.com/duartemoura/reinvent-traffic-management">Traffic Optimisation with Deep RL</a></h4>
-      <sub>Deep Q-Network agent trained in the SUMO simulator on Amazon SageMaker, ingesting simulated IoT signals through AWS analytics for real-time traffic-flow decisions. Selected to present at <b>AWS re:Invent</b> as an official workshop.</sub>
-    </td>
-    <td width="50%" valign="top">
       <h4>📄 EMBC 2026 — <i>Visual Prototypes for Self-Explainable Lung Nodule Classification</i></h4>
       <sub>First-author paper accepted at IEEE EMBC 2026, from work at INESC TEC on the EU AI4Lungs project. ViT with prototype-based interpretability for clinically auditable lung nodule predictions under regulatory constraints.</sub>
+      <br/><br/>
+      <p align="center">
+        <img src="assets/embc.png" width="440" height="320" alt="EMBC 2026 — Visual Prototypes for Lung Nodule Classification"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/duartemoura/Refusal_MechanisticStudy">Mechanistic Study of Refusal in LLMs</a></h4>
+      <sub>Component-level analysis of refusal in Qwen-1.8B using TransformerLens. Systematic ablation across residual streams, MLPs, and attention heads localised refusal to <b>a single attention head (L6_H10)</b> and three layers (6, 9, 11). Counterfactual injection of refusal activations into neutral prompts (e.g. <i>"how do I bake a cake?"</i>) reproduced refusals — evidence that the feature generalises beyond its intended context.</sub>
+      <br/><br/>
+      <p align="center">
+        <a href="https://github.com/duartemoura/Refusal_MechanisticStudy">
+          <img src="assets/refusal_circuit.png" width="440" height="320" alt="Mechanistic Study of Refusal in LLMs"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
