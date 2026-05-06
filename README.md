@@ -2,7 +2,7 @@
 
 <p align="center">
   Applied AI Engineer · Madrid 🇪🇸<br/>
-  <sub>Production LLM evaluation · Mechanistic interpretability · ML for medical imaging</sub>
+  <sub>Production LLM evaluation · Interpretability Research· ML for medical imaging</sub>
 </p>
 
 <p align="center">
